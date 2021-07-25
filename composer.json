@@ -8,7 +8,7 @@
         "Laravel cart",
         "Laravel php cart"
     ],
-    "homepage": "https://github.com/anam-hossain/lara-phpcart",
+    "homepage": "https://github.com/Amrsharkas/lara-phpcart",
     "license": "MIT",
     "authors": [
         {
@@ -16,9 +16,7 @@
             "email": "enam33@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0"
-    },
+   
     "autoload": {
         "psr-4": {
             "Anam\\Phpcart\\" : "src/" 
